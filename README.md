@@ -1,0 +1,2 @@
+# libmanage
+springboot基于Springboot技术的实验室管理系统
